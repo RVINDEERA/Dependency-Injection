@@ -6,7 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="Property-Injection" />
+        <module name="Interface-Through-Injection" />
+        <module name="Dpendency-INjection-Introduction" />
         <module name="Tight-Coupling" />
+        <module name="Constructor-injection" />
+        <module name="Setter-Method-Injection" />
+        <module name="Loose-Coupling" />
       </profile>
     </annotationProcessing>
   </component>
